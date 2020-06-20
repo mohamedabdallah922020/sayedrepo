@@ -1,0 +1,476 @@
+Uri: http://lazyboardapp.website2.me/
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\index.htm
+Content Type: text/html
+
+Uri: http://lazyboardapp.website2.me/style/PIE/PIE.htc
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\PIE\PIE.htc
+Content Type: text/x-component
+
+Uri: http://lazyboardapp.website2.me/img/customHTML.svg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\customHTML.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/faq/fonts/eicons.eot
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\faq\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/faq/fonts/eicons.woff2
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\faq\fonts\eicons.woff2
+Content Type: application/font-woff2
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/faq/fonts/eicons.woff
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\faq\fonts\eicons.woff
+Content Type: font/x-woff
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/faq/fonts/eicons.ttf
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\faq\fonts\eicons.bin
+Content Type: application/octet-stream
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/faq/fonts/eicons.svg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\faq\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/img/fm_stock/thumb/_stock_product.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\fm_stock\thumb\_stock_product.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/mastermember/css/font/mm_checkicons.eot?71834178
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\mastermember\css\font\mm_checkicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/mastermember/css/font/mm_checkicons.woff2?71834178
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\mastermember\css\font\mm_checkicons.woff2
+Content Type: application/font-woff2
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/mastermember/css/font/mm_checkicons.woff?71834178
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\mastermember\css\font\mm_checkicons.woff
+Content Type: font/x-woff
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/mastermember/css/font/mm_checkicons.ttf?71834178
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\mastermember\css\font\mm_checkicons.bin
+Content Type: application/octet-stream
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/mastermember/css/font/mm_checkicons.svg?71834178
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\mastermember\css\font\mm_checkicons.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/img/rm/printer_white.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\rm\printer_white.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/rm/dish_placeholder.svg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\rm\dish_placeholder.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/img/rm/OW-Symbol-Small.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\rm\OW-Symbol-Small.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/img/opentable_preview.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\opentable_preview.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/loading.gif
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\loading.gif
+Content Type: image/gif
+
+Uri: http://lazyboardapp.website2.me/img/product_grid_sort_select.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\product_grid_sort_select.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/fm_stock/_stock_product.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\fm_stock\_stock_product.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/videostrip/web-bg-black.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\videostrip\web-bg-black.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/videostrip/web-bg-green.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\videostrip\web-bg-green.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/videostrip/web-bg-pink.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\videostrip\web-bg-pink.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/videostrip/web-bg-purple.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\videostrip\web-bg-purple.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/videostrip/web-bg-yellow.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\videostrip\web-bg-yellow.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/webform/svg/check.svg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\webform\svg\check.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/img/webform/svg/exclamation.svg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\webform\svg\exclamation.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/img/webform/svg/x.svg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\webform\svg\x.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/img/free_account_sidebanner.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\free_account_sidebanner.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/img/favicon.ico
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/jquery-ui-1.10.1.custom.min.css
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\jquery-ui-1.10.1.custom.min.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/skins/0/blank_new/theme.bundle.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\skins\0\blank_new\theme.bundle.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/style/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/js/dist/hp-icon/styles.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\dist\hp-icon\styles.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/style/dist/core.bundle.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\dist\core.bundle.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/js/plugins/aos/aos.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\aos\aos.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/js/plugins/noUiSlider/nouislider.min.css
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\noUiSlider\nouislider.min.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/js/plugins/mediaelement/build/mediaelementplayer.custom.min.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\mediaelement\build\mediaelementplayer.custom.min.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/js/editor/elements/image/css/imageElement.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\elements\image\css\imageElement.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/style/animate.min.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\animate.min.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/style/animations.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\animations.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/style/pageTransition.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\pageTransition.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/faq
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\faq.html
+Content Type: text/html
+
+Uri: http://lazyboardapp.website2.me/privacy
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\privacy.html
+Content Type: text/html
+
+Uri: http://lazyboardapp.website2.me/contact-us
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\contact-us.html
+Content Type: text/html
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/jquery.fancybox.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/helpers/jquery.fancybox-thumbs.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\helpers\jquery.fancybox-thumbs.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/jquery.fancybox.custom.css?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\jquery.fancybox.custom.css
+Content Type: text/css
+
+Uri: http://lazyboardapp.website2.me/js/dist/core.bundle.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\dist\core.bundle.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/aos/aos.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\aos\aos.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/pagination/jquery.pagination.min.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\pagination\jquery.pagination.min.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery.cookie.min.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/noUiSlider/wNumb.min.js
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\noUiSlider\wNumb.min.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/noUiSlider/nouislider.min.js
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\noUiSlider\nouislider.min.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery.form.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery.form.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/mediaelement/build/mediaelement-and-player.min.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\mediaelement\build\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/page/pageTransition.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\page\pageTransition.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/optimize/7EF6DE8A55506106.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\optimize\7EF6DE8A55506106.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/optimize/5C69D6BA0D1B2573.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\optimize\5C69D6BA0D1B2573.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/optimize/98443B29FFE4D776.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\optimize\98443B29FFE4D776.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/optimize/96B55287D2F39A8C.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\optimize\96B55287D2F39A8C.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/storeManager/ws_store.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\storeManager\ws_store.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/jquery.fancybox.pack.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/helpers/jquery.fancybox-thumbs.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\helpers\jquery.fancybox-thumbs.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-parallax/jquery.parallax-1.1.3.min.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-parallax\jquery.parallax-1.1.3.min.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/editor/scripts/ws_masterpages.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\editor\scripts\ws_masterpages.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/animated-overlay.gif
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\animated-overlay.gif
+Content Type: image/gif
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-bg_flat_75_ffffff_40x100.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-icons_222222_256x240.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-icons_888888_256x240.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-icons_454545_256x240.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-icons_2e83ff_256x240.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-icons_cd0a0a_256x240.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/jquery-ui/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\jquery-ui\css\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/style/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lazyboardapp.website2.me/style/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\font-awesome-4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lazyboardapp.website2.me/style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: http://lazyboardapp.website2.me/style/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: http://lazyboardapp.website2.me/style/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\font-awesome-4.7.0\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://lazyboardapp.website2.me/style/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\style\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/js/dist/hp-icon/fonts/hp-icon.eot?v=20200513
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\dist\hp-icon\fonts\hp-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lazyboardapp.website2.me/js/dist/hp-icon/fonts/hp-icon.eot?
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\dist\hp-icon\fonts\hp-icon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lazyboardapp.website2.me/js/dist/hp-icon/fonts/hp-icon.woff?v=20200513
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\dist\hp-icon\fonts\hp-icon.woff
+Content Type: font/x-woff
+
+Uri: http://lazyboardapp.website2.me/js/dist/hp-icon/fonts/hp-icon.ttf?v=20200513
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\dist\hp-icon\fonts\hp-icon.bin
+Content Type: application/octet-stream
+
+Uri: http://lazyboardapp.website2.me/js/dist/hp-icon/fonts/hp-icon.svg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\dist\hp-icon\fonts\hp-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://lazyboardapp.website2.me/js/plugins/mediaelement/build/bigplay.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\mediaelement\build\bigplay.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/mediaelement/build/background.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\mediaelement\build\background.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/mediaelement/build/loading.gif
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\mediaelement\build\loading.gif
+Content Type: image/gif
+
+Uri: http://lazyboardapp.website2.me/js/plugins/mediaelement/build/controls.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\mediaelement\build\controls.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/702586D98C687E56.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\702586D98C687E56.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/C309F8D1907254D7.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\C309F8D1907254D7.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/031FFED550501269.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\031FFED550501269.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/B35FF8F51808197E.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\B35FF8F51808197E.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/1F480D4B49F4DADF.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\1F480D4B49F4DADF.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/9D6470859C452CA4.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\9D6470859C452CA4.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/6EE248C5883D4825.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\6EE248C5883D4825.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/E57CC9356558A56A.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\E57CC9356558A56A.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/275D68196E02FBF8.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\275D68196E02FBF8.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/7527E00286B77394.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\7527E00286B77394.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/8F10CB972D4BF6F2.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\8F10CB972D4BF6F2.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/71300FE3FC553F7E.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\71300FE3FC553F7E.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/52D3CD97AE71288A.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\52D3CD97AE71288A.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/808FC73B38037FEC.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\808FC73B38037FEC.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/38EA6C69DCB04AD3.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\38EA6C69DCB04AD3.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/upload/1002506/images/FDB2655EC068E773.jpg
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\upload\1002506\images\FDB2655EC068E773.jpg
+Content Type: image/jpeg
+
+Uri: http://lazyboardapp.website2.me/js/lib/underscore.js?20200619162611
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\lib\underscore.js
+Content Type: application/javascript
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/fancybox_sprite.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/fancybox_loading.gif
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/blank.gif
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\blank.gif
+Content Type: image/gif
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/fancybox_overlay.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\fancybox_overlay.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/fancybox_sprite@2x.png
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: http://lazyboardapp.website2.me/js/plugins/fancybox2/fancybox_loading@2x.gif
+File Name: c:\Downloaded Web Sites\lazyboardapp.website2.me\js\plugins\fancybox2\fancybox_loading@2x.gif
+Content Type: image/gif
+
